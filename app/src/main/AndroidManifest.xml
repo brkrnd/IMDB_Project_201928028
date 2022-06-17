@@ -10,7 +10,10 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.IMDB_Project_201928028">
         <activity
-            android:name=".MainActivity"
+            android:name=".MovieList"
+            android:exported="false" />
+        <activity
+            android:name=".IMDB_Starting_Menu"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />

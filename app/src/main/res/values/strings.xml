@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">IMDB_Project_201928028</string>
+    <string name="imdb_movie_watchlist_app">IMDB Movie Watchlist App</string>
+    <string name="start">START</string>
 </resources>
